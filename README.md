@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 My goal is to learn more about Data Science and machine learning. 
+
 ### My languages:
 [<img align="left" alt="Python" width="55px" src="https://github.com/devicons/devicon/blob/v2.15.0/icons/python/python-original.svg" style="padding-right:10px;" />][python]
 [<img align="left" alt="pandas" width="55px" src="https://github.com/devicons/devicon/blob/v2.15.0/icons/pandas/pandas-original.svg" style="padding-right:10px;" />][pandas]
