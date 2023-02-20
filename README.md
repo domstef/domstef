@@ -1,5 +1,5 @@
 ### Hi there! 👋
-My name is Dominika and I'm a student at the Poznan University of Technology in the field of Mathematics.
+My name is Dominika and I'm an absolvent in the field of Mathematics at the Poznan University of Technology.
 <!--
 **domstef/domstef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
